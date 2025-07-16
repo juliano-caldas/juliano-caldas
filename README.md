@@ -29,12 +29,38 @@ Aqui estão algumas das minhas principais habilidades desenvolvidas ao longo da 
 
 Se quiser conhecer melhor meus projetos, desafios e aprendizados, fique à vontade para explorar este repositório ou me chamar para uma boa conversa! 💬
 
+## 🛠️ Ferramentas e Tecnologias
+
+Ao longo da minha trajetória, desenvolvi familiaridade com diversas ferramentas e tecnologias que aplico no dia a dia para análise, visualização e manipulação de dados:
+
+### 📊 Análise de Dados & Visualização
+- **Excel**  
+- **Power BI**  
+- **Tableau**  
+- **RStudio**  
+- **Python**  
+- **SQL**
+
+### 🧠 Big Data & Armazenamento
+- **Snowflake**  
+- **Big Data (conceitos e práticas)**
+
+### 🔧 Ferramentas de Apoio
+- **Postman** (testes de API)  
+- **Word** (documentação técnica e relatórios)  
+- **Canva** (apresentações e comunicação visual)
+
+Estas ferramentas me permitem entregar soluções completas — da coleta de dados à geração de valor por meio de análises inteligentes e comunicação clara dos resultados 🚀
+
 ## 📬 Contato
 
-Fique à vontade para entrar em contato comigo!
+Fique à vontade para entrar em contato comigo ou conhecer mais sobre meu trabalho:
 
-- 📱 [Me chame no WhatsApp](https://wa.me/5527999372556)  
-- 📧 [Envie um e-mail](mailto:juliano.her.cal@gmail.com)
+- 📱 **Me chame no WhatsApp** - +55 (27) 99937-2556  
+- 📧 **Envie um e-mail** - juliano.her.cal@gmail.com
+- 💼 [Meu LinkedIn](https://www.linkedin.com/in/juliano-herzog-caldas-2a45431a2/)  
+- 💻 [Portfólio de Projetos]()  
+- 📂 [Currículo em PDF]()
 
 Estou sempre aberto para conversar sobre dados, projetos, oportunidades ou simplesmente trocar ideias! 🚀
 
